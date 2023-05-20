@@ -70,24 +70,24 @@ I have created 2 fucntions that will compare current price against historical pr
 ***
 1. Understanding what is the view of current market pricing:
 
-![Alt text](images/fig_clot_price_scrape.jpg)
+![Alt text](Images/fig_clot_price_scrape.jpg)
 
 - Only 26% of all the sale adds have a "Good Price", meaning that the price per M2 is between the minimum and the mean. A 25% has not the best price but could potentially be negociated and 49% are currently over priced.
 
 2. Understanding if there is a relation between the price and the fact that they have or not lift:
 
-![Alt text](images/fig.png)
+![Alt text](Images/fig.png)
 
 
 - Most of the adds that are currently in "Good Price" are because they don't have lift, while the ones with "Over Price" they mainly have lift.
 
 3. Understanding the price evolution year over year for this neightboorhood and the correlation of the Euribor interest rate throughout the years:
 
-![Alt text](images/fig_clot_price_evo_yoy.jpg)
+![Alt text](Images/fig_clot_price_evo_yoy.jpg)
 
-![Alt text](images/fig_el_clot_price_vs_euribor_evo.jpg)
+![Alt text](Images/fig_el_clot_price_vs_euribor_evo.jpg)
 
-![Alt text](images/fig_euribor_evo.jpg)
+![Alt text](Images/fig_euribor_evo.jpg)
 
 - The year 2014 and 2019 are considered inflection points were the M2 price has changed the behaviour.
 The current mean price for El Clot is €3,260.90 for the M2 price between 2013-2022 (10 years).
@@ -95,9 +95,9 @@ In regards to the Euribor rate evolution, we can clearly see that after the hous
 
 4. Is there a pattern on the behaviour of this neighborhood with other neighborhoods (Ciutat Meridiana and Diagonal Mar)?
 
-![Alt text](images/fig_3_barrios_yoy_sep.jpg)
+![Alt text](Images/fig_3_barrios_yoy_sep.jpg)
 
-![Alt text](images/fig_3_barrios_yoy.jpg)
+![Alt text](Images/fig_3_barrios_yoy.jpg)
 
 - Ciutat Meridiana is currently the neighborhood with the lowest price M2 and Diagonal Mar with the maximums. Despite the prices and the cost per M2, we can clearly see that the pattern and the price fluctuation follows a similarity with a clear diference on Diagonal Mar for which the price has not stop increasing and keeps going up overitme.
 
